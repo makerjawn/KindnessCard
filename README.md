@@ -1,6 +1,6 @@
 # KindnessCard
 Simple copper tape circuit take-away card stuffs.
-See more of our work at [our blog](https://www.makerjawn.org/blog/).
+See more of our work at [our blog](http://makerjawn.org/blog/).
 
 Repository Contents
 -------------------
